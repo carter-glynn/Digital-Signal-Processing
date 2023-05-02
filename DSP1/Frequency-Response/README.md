@@ -28,8 +28,10 @@ b. Now, use Matlab to plot the magnitude and phase responses with the Euler iden
 <br>
 c. Can you account for the differences among the plots in (1) and (2)?
 <br>
-![Graphs](/Cglynn_Lab6_Graphs.png)
+
+![Graphs](Cglynn_Lab6_Graphs.png)
+
 <br>
-<br>
-![Written](/Cglynn_Lab6_Written.png)
+
+![Written](Cglynn_Lab6_Written.png)
 <br>
