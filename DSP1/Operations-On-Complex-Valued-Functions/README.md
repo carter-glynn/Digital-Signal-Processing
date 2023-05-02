@@ -2,7 +2,7 @@ Using Matlab, generate the complex-valued signal
 x [n]=e^(−0. 1+ j 0. 3 )n −10≤n≤10
 <br>
 
-![Function Plot](Figure1PNG.jpg)
+![Function Plot](Figure1.PNG.jpg)
 <br>
 1. Using 1st principles, calculate and plot its:
 a. Magnitude
