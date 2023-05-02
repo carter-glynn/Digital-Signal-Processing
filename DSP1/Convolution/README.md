@@ -3,8 +3,9 @@ and on every birthday thereafter. In addition, he earns interest compounded annu
 table below shoes the rate of interest per year. Write a difference equation which calculates
 the amount he’ll have in his account by his 60th birthday. Write a brief computer program to
 calculate this amount. Hand in your code with the answer.
+<br>
 | Year | Interest Rate |
-| --- | --- |
+| :----: | :----: |
 | 2016  | 10 |
 | 2017  | 9 |
 | 2018  | 5 |
@@ -36,7 +37,7 @@ calculate this amount. Hand in your code with the answer.
 | 2044  | 7 |
 | 2045  | 7 |
 <br>
-![Interest Graph](/Cglynn_Lab3_Pic1.png)
+[![Interest Graph][Cglynn_Lab3_Pic1]](https://example.com)
 <br>
 2. Consider the following running average filter. Write a MATLAB program that performs the
 following tasks.
