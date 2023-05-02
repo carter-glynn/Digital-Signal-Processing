@@ -4,6 +4,7 @@ table below shoes the rate of interest per year. Write a difference equation whi
 the amount he’ll have in his account by his 60th birthday. Write a brief computer program to
 calculate this amount. Hand in your code with the answer.
 <br>
+
 | Year | Interest Rate |
 | :----: | :----: |
 | 2016  | 10 |
@@ -37,7 +38,9 @@ calculate this amount. Hand in your code with the answer.
 | 2044  | 7 |
 | 2045  | 7 |
 <br>
+
 ![Interest Graph](Cglynn_Lab3_Pic1.png)
+
 <br>
 2. Consider the following running average filter. Write a MATLAB program that performs the
 following tasks.
@@ -45,5 +48,8 @@ where x ( k ) =sin ( 0.1 πk ) −2 cos ( 0.2 πk ) + 3 sin ( 0.3 πk ) , 0 ≤ 
 Compute and plot the impulse response h(k) for 0 ≤ k < N where N = 50 from 1st
 principles. Now, use the functions ‘filter’ and ‘conv’ to arrive at the same results
 <br>
+
 ![Running Average](Cglynn_Lab3_Pic2.png)
+
 <br>
+
