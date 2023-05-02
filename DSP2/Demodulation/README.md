@@ -7,4 +7,4 @@ Choose an appropriate Matlab filter to remove the carrier from the demodulated s
 Show the output of the demodulated signal.
 <br>
 
-![Output](CGlynn_Assignment2_pic.png)
+![Output](CGlynn_Assignment2_Pic.png)
